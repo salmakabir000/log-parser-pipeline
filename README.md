@@ -96,6 +96,3 @@ log-parser-pipeline/
 
   ## Future Improvements
   - Replace scheduler with Apache Airflow or Cloud Composer
- 
-
-Just say the word.
